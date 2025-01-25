@@ -15,12 +15,10 @@
 
 - 💻 Currently focusing on Full-Stack .NET Development
 
-- 🌟 Goals
-Building innovative web applications
-Continuously enhancing technical skills to stay ahead in the tech world
-
 
 - 🏆 In addition to my .NET Development skills, I'm also a competitive programmer and enjoy solving challenging problems. You can check out some of my solutions and coding challenges on my **[codeforces profile](https://codeforces.com/profile/_LOlly_)**
+
+- 🌟 Goals :Building innovative web applications Continuously enhancing technical skills to stay ahead in the tech world
 
 - 📫 How to reach me **alaashokryhelmy@gmail.com**
 
